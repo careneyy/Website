@@ -1,10 +1,10 @@
-function GiftCardPage() {
+function FrequentlyAskedPage() {
       return (
     <>
     <div className ="home-flex">
       <div>
         <div className ="title">
-          Gift Card
+          Frequently Asked
         </div>
       </div>
     </div>
@@ -12,4 +12,4 @@ function GiftCardPage() {
   )
 }
 
-export default GiftCardPage
+export default FrequentlyAskedPage
